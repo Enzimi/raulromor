@@ -4,6 +4,22 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.img-custom-border {
+  border: 2px solid #2C3E50; /* Definisce un bordo di 2px di spessore di colore grigio (#333) */
+  border-radius: 10px; /* Aggiunge un bordo arrotondato con raggio di 10px */
+  padding: 5px; /* Aggiunge spazio interno al bordo */
+}
+
+.profile-custom-border {
+  border: 5px solid #AEB3B9; /* Definisce un bordo di 2px di spessore di colore grigio (#333) */
+  border-radius: 10px; /* Aggiunge un bordo arrotondato con raggio di 10px */
+  padding: 2px; /* Aggiunge spazio interno al bordo */
+}
+
+.rounded {
+  border-radius: 50%;
+}
+
 .justify {
   text-align: justify;
 }
