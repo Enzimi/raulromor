@@ -30,7 +30,7 @@
     background-size: cover; /* Ensure the background image covers the entire container */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
     background-position: center; /* Center the background image */
-    padding-top: 450px; /* Add padding as needed */
+    padding-top: 600px; /* Add padding as needed */
     padding-bottom: 50px; /* Add padding as needed */
     max-width: 100%; /* Set the maximum width to 100% to make it responsive */
     margin: 0 auto; /* Center the container horizontally */
