@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+html,body{
+    overflow-x: hidden;
+}
+
 .img-custom-border {
   border: 2px solid #2C3E50; /* Definisce un bordo di 2px di spessore di colore grigio (#333) */
   border-radius: 10px; /* Aggiunge un bordo arrotondato con raggio di 10px */
