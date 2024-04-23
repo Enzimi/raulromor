@@ -1,4 +1,5 @@
 ---
+title: Enologia
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -6,6 +7,8 @@ img: enologia.jpg
 alt: image-alt
 #project-date: April 2014
 #client: Start Bootstrap
-category: Enologia
-description: La mia formazione enologica mi permette di gestire i diversi tipi di vinificazione dalle basi spumanti ai rossi, con un focus sulla vinificazione dei bianchi in barrique e della varietà Manzoni Bianco.
+#category: Enologia
+#description:
 ---
+
+<p align="justify">La mia formazione enologica mi permette di gestire i diversi tipi di vinificazione, dalle basi spumanti ai rossi, con un focus sulla vinificazione dei bianchi in barrique e della varietà Manzoni Bianco.</p>
